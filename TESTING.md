@@ -102,7 +102,7 @@ customer preferences.
 
 ---
 
-### Test 4: Retest — Estimated Pricing
+### Test 4: Pricing Strategy (Retest)
 
 **Question:**
 What are the recommended estimated prices in AED
@@ -338,3 +338,59 @@ Include halal certification checks, food safety
 requirements, and a structured supplier comparison matrix.
 
 ---
+
+## Overall Evaluation
+
+The Intelligent Market Expansion Advisor was evaluated
+through nine test scenarios covering restaurant
+expansion in Dubai and Abu Dhabi.
+
+### Results Summary
+
+| Result | Number of Tests |
+|---|---:|
+| Pass | 3 |
+| Partial Pass | 6 |
+| Fail | 0 |
+| Total | 9 |
+
+### What Worked Well
+
+- The system generated structured business recommendations.
+- The agents covered different restaurant expansion topics.
+- Pricing, marketing, and staffing questions produced
+  useful answers within their tested scope.
+- Several responses included practical next steps.
+- The advisor sometimes acknowledged uncertainty
+  instead of presenting estimates as verified facts.
+
+### Identified Limitations
+
+- Web searches occasionally failed.
+- Some responses lacked supporting source links.
+- Certain recommendations were too general.
+- Market prices and rental estimates were not fully verified.
+- Licensing responses included outdated information.
+- Some operational recommendations lacked sufficient detail.
+
+### Future Improvements
+
+- Improve web search reliability and error handling.
+- Validate information against current official sources.
+- Improve source citation accuracy.
+- Generate more detailed and product-specific recommendations.
+- Track API token usage and estimated costs.
+- Reduce unnecessary tool calls and repeated searches.
+- Introduce caching to improve cost efficiency.
+
+### Final Conclusion
+
+The system demonstrated the ability to provide
+structured and actionable restaurant expansion advice.
+
+However, further improvements are needed in
+data accuracy, source verification, and reliability.
+
+The project provides a functional multi-agent
+advisory prototype, but its recommendations
+should be verified before real business decisions.
