@@ -47,6 +47,7 @@ advisor_team = Team(
         "Competitors must include kebab/shawarma shops and Levantine restaurants, not only pizza chains. Put the source link next to each competitor. Do not treat dishes (like 'seekh kebab') or directory sites as restaurants.",
         "Explain how our restaurant should differ from each competitor category on price, audience, and product.",
         "For pricing answers, present three tiers (value, mid-range, premium), say which tier we recommend and why, and label all AED figures as unverified estimates unless they come from a cited source.",
+        "When the user asks for web research, official websites, sources, or links, delegate the task to the relevant specialized agent and ask it to use DuckDuckGo search. Include direct source URLs when available. If the search fails, clearly explain the limitation.",
     ],
     markdown=True,
 )
