@@ -420,3 +420,10 @@ during development.
 - Introduce response caching for repeated questions.
 - Improve recommendation accuracy using verified UAE market data.
 
+## Demo Video
+
+A short demonstration of the Intelligent Market Expansion Advisor,
+showing the system running, answering business questions,
+and providing information from official sources.
+
+[Watch Demo Video](https://drive.google.com/file/d/1_FUZE0XeQPaPGT_zvWdmeu_rBeZMeld3/view?usp=sharing)
